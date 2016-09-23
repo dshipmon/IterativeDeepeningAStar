@@ -28,7 +28,6 @@ public class IterativeDeepeningAStar {
             additiveBound += 2;
             if (solved != null){
                 return solved;
-                break;
             }
         }
     }
